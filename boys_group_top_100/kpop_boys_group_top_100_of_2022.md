@@ -1,2 +1,2 @@
-# Korea Pop Music Boys Group Top 100 (º«¹úÄĞÍÅÒôÀÖ°ñ) - 2022
+# Korea Pop Music Boys Group Top 100 (éŸ©å›½ç”·å›¢éŸ³ä¹æ¦œ) - 2022
 

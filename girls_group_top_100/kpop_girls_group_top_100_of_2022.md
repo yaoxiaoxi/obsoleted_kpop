@@ -1,4 +1,4 @@
-# Korea Pop Music Girls Group Top 100 (º«¹úÅ®ÍÅÒôÀÖ°ñ) - 2022
+# Korea Pop Music Girls Group Top 100 (éŸ©å›½å¥³å›¢éŸ³ä¹æ¦œ) - 2022
 
 - (G)I-DLE - NXDE
 - (G)I-DLE - TOMBOY
