@@ -63,7 +63,6 @@
 
 | Rank | Points | Title                         | Count | Percentage | Average |
 | ---- | ------ | ----------------------------- | ----- | ---------- | ------- |
-| 8    | 242    | IVE - After Like              | 41    | 17.45%     | 5.10    |
 | 9    | 235    | NewJeans - Attention          | 36    | 15.32%     | 4.47    |
 | 10   | 211    | STAYC - RUN2U                 | 36    | 15.32%     | 5.14    |
 | 11   | 180    | Kwon Eunbi - Glitch           | 34    | 14.47%     | 5.71    |
