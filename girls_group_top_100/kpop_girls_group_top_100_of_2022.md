@@ -57,6 +57,7 @@
 - TRI.BE - KISS
 - TRIPLES AAA - GENERATION
 - WEEEKLY - VEN PARA
+- NewJeans - Ditto
 
 
 
