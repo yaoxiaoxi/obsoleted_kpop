@@ -67,34 +67,22 @@
 | 13   | 162    | woo!ah! - Catch the Stars     | 24    | 10.21%     | 4.25    |
 | 14   | 154    | Aespa - Illusion              | 23    | 9.79%      | 4.30    |
 | 15   | 148    | Rocket Punch - Chiquita       | 26    | 11.06%     | 5.31    |
-| 16   | 142    | B.I - BTBT                    | 21    | 8.94%      | 4.24    |
-| 17   | 141    | Yena - Smiley                 | 24    | 10.21%     | 5.13    |
-| 18   | 136    | fromis\_9 - DM                | 24    | 10.21%     | 5.33    |
-| 19   | 130    | Stray Kids - Maniac           | 23    | 9.79%      | 5.35    |
-| 20   | 127    | TripleS AAA - Generation      | 23    | 9.79%      | 5.48    |
-| 21   | 126    | Seventeen - Hot               | 18    | 7.66%      | 4.00    |
-| 22   | 114    | (G)I-DLE - Tomboy             | 21    | 8.94%      | 5.57    |
-| 23   | 112    | Dreamcatcher - Vision         | 23    | 9.79%      | 6.13    |
-| 24   | 100    | Sunmi - Heart Burn            | 17    | 7.23%      | 5.12    |
-| 25   | 99     | NAYEON - POP!                 | 20    | 8.51%      | 6.05    |
-| 26   | 97     | Billlie - Ring Ma Bell        | 17    | 7.23%      | 5.29    |
 | 27   | 94     | LE SSERAFIM - Blue Flame      | 18    | 7.66%      | 5.78    |
 | 28   | 92     | STAYC - Young Luv             | 16    | 6.81%      | 5.25    |
-| 29   | 90     | Billlie - GingaMingaYo        | 17    | 7.23%      | 5.71    |
-| 30   | 86     | LE SSERAFIM - Fearless        | 15    | 6.38%      | 5.27    |
-| 31   | 76     | Onew - Dice                   | 12    | 5.11%      | 4.67    |
 | 32   | 75     | Ateez - Cyberpunk             | 13    | 5.53%      | 5.23    |
 | 33   | 73     | CSR - Pop? Pop!               | 13    | 5.53%      | 5.38    |
 | 34   | 70     | LE SSERAFIM - Impurities      | 15    | 6.38%      | 6.33    |
 | 35   | 69     | Kwon Eunbi - Underwater       | 15    | 6.38%      | 6.40    |
-| 36   | 68     | GOT the beat - Step Back      | 15    | 6.38%      | 6.47    |
 | 37   | 67     | KARA - When I Move            | 15    | 6.38%      | 6.53    |
 | 37   | 67     | woo!ah! - Rollercoaster       | 14    | 5.96%      | 6.21    |
-| 39   | 66     | aespa - Girls                 | 13    | 5.53%      | 5.92    |
-| 39   | 66     | ATEEZ - Guerrilla             | 10    | 4.26%      | 4.40    |
 | 39   | 66     | ATEEZ - Halazia               | 9     | 3.83%      | 3.67    |
 | 39   | 66     | Seulgi - 28 Reasons           | 16    | 6.81%      | 6.88    |
 | 43   | 64     | Cherry Bullet - Love In Space | 11    | 4.68%      | 5.18    |
+
+
+
+
+
 | 44   | 64     | WJSN - Last Sequence          | 15    | 6.38%      | 6.73    |
 | 45   | 63     | (G)I-DLE - Nxde               | 16    | 6.81%      | 7.06    |
 | 46   | 61     | FIFTY FIFTY - Higher          | 10    | 4.26%      | 4.90    |
@@ -136,7 +124,6 @@
 | 29 | Think About You | Joosiq |
 | 30 | Dynamite | BTS |
 | 31 | I Missed You | WSG WANNABE (4FIRE) |
-| 32 | SMILEY (Feat. BIBI) | YENA |
 | 33 | Weekend | TAEYEON |
 | 34 | FEARLESS | LE SSERAFIM |
 | 35 | Butter | BTS |
@@ -154,11 +141,9 @@
 | 47 | Our Blues, Our Life | Lim Young Woong |
 | 48 | Foolish Love | MSG WANNABE (M.O.M) |
 | 49 | Event Horizon | YOUNHA |
-| 50 | Step Back | GOT the beat |
 | 51 | Celebrity | IU |
 | 52 | MY BAG | (G)I-DLE |
 | 53 | Savage | aespa |
-| 54 | POP! | NAYEON (TWICE) |
 | 55 | Gradation | 10CM |
 | 56 | Horangsuwolga | Tophyun |
 | 57 | LILAC | IU |
@@ -184,13 +169,11 @@
 | 79 | Nxde | (G)I-DLE |
 | 80 | Dun Dun Dance | OH MY GIRL |
 | 81 | Drawer | 10CM |
-| 82 | Illusion | aespa |
 | 83 | Twenty-five, twenty-one | JAURIM |
 | 84 | ANTIFRAGILE | LE SSERAFIM |
 | 85 | Don't wanna leave tonight | Kassy |
 | 86 | NAKKA (with IU) | AKMU |
 | 87 | ZOOM | Jessi |
-| 88 | Girls | aespa |
 | 89 | Rush Hour (Feat. j-hope of BTS) | Crush |
 | 90 | My Pleasure Is That You Ride The Bentley | Kim Seungmin |
 | 91 | You, you (Nth Romance X Whee In) | Whee In |
@@ -233,9 +216,6 @@ Antifragile - 106,453,009
 
 Sour Grape - 54,442,610
 
-Blue flame - 42,330,129
-
-Impurities - 18,018,900
 
 Good Parts (when the quality is bad but i am) - 15,080,609
 
@@ -357,7 +337,6 @@ NMIXX:
 
 O.O - 106,747,951
 
-DICE - 53,272,929
 
 Tank - 32,848,516
 
@@ -373,7 +352,6 @@ O.O instrumental - 1,268,528
 
 Hey Gabby! - 806,033
 
-Dice instrumental - 636,016
 
 Sprinkle Party - 361,795
 
@@ -407,9 +385,7 @@ When We Were Kids - 6,185,158
 
 AESPA:
 
-Illusion - 64,662,484
 
-Girls - 55,862,561
 
 Life's Too Short (English version) - 33,433,276
 
@@ -423,9 +399,6 @@ Beautiful Christmas - 2,197,981
 
 Life's Too Short instrumental - 582,363
 
-Girls (BRLLNT Remix) - 369,814
-
-Girls (Minit Remix) - 168,752
 
 
 
